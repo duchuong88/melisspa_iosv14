@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "13735170032",
+    "firebase_url": "https://melis-spa-default-rtdb.firebaseio.com",
+    "project_id": "melis-spa",
+    "storage_bucket": "melis-spa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13735170032:android:ab18cd81890460f7249735",
+        "android_client_info": {
+          "package_name": "melis.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh9vWWtENDm_00QpNVxghdY1ahir25VIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

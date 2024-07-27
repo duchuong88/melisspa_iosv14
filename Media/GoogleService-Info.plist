@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDJ7MVcRpQFAPZpqUm7ofehojl5y8d5K6M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>13735170032</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>melis.ezspa</string>
+	<key>PROJECT_ID</key>
+	<string>melis-spa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>melis-spa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:13735170032:ios:3888fb8f9712f5c3249735</string>
+	<key>DATABASE_URL</key>
+	<string>https://melis-spa-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
